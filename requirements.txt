@@ -1,0 +1,5 @@
+flask
+botbuilder-core
+openai
+azure-cognitiveservices-speech
+azure-cognitiveservices-vision-computervision
